@@ -6,7 +6,6 @@ This is a repository of studies for the development of the StructBoost project f
 
 - HTML
 - CSS 3
-- SASS
 
 ### Versioning:
 
